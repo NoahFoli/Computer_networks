@@ -1,5 +1,13 @@
+# Compiled programs
 client
 server
+*.out
+*.o
+*.exe
+
+# macOS debug/build folders
 *.dSYM/
-received_file.txt
 .DS_Store
+
+# Generated test files
+received_file.txt
