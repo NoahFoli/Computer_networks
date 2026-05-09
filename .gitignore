@@ -1,0 +1,5 @@
+client
+server
+*.dSYM/
+received_file.txt
+.DS_Store
